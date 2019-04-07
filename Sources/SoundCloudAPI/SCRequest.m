@@ -18,8 +18,7 @@
  * 
  */
 
-#import <OAuth2Client/NXOAuth2.h>
-
+#import <NXOAuth2.h>
 
 #import "SCAccount.h"
 #import "SCAccount+Private.h"
